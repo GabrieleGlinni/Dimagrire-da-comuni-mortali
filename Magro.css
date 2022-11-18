@@ -1,0 +1,15 @@
+#Dimagrito img {
+    float: right;
+    height: auto;
+    max-width: 14%;
+    margin-right: 4%;
+}
+
+#Conclusione {
+    margin-right: 3.2%;
+}
+
+#Torta {
+    align-items: center;
+    max-width: 20%;
+}

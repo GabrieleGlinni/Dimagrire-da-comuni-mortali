@@ -1,0 +1,78 @@
+.Sito2 {
+    max-width: 1024px;
+    margin: auto;
+    text-align: center;
+}
+
+.light2 {
+    background-color: rgb(221, 241, 235);
+    border: black ridge;
+    border-width: 0.03cm;
+}
+
+.dark2 {
+    background-color: rgb(53, 50, 50);
+    border: rgb(255, 255, 255) ridge;
+    border-width: 0.03cm;
+    color: white;
+}
+
+.dark2 a {
+    color: white;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 62px;
+    font-weight: 600;
+    line-height: 72px;
+    margin: 0 0 24px;
+    text-align: center;
+    text-transform: uppercase;
+    border: black ;
+    border-width: 0.03cm;
+}
+
+
+#iniziale {
+    font-family: Georgia;
+    font-size: 75px;
+}
+
+#footer {
+    position: relative;
+    max-width: 1024px;
+    margin: auto;
+    text-align: center;
+    font-size: small;
+    padding: 55px 0px 15px 0px;
+}
+
+#footer p {
+    display: inline;
+    text-align: center;
+}
+
+.notte {
+    float: left;
+    height: auto;
+    max-width: 20%;
+    margin-left: 3.9%;
+    margin-right: -22.9%;
+}
+
+#footer {
+    position: relative;
+    max-width: 1024px;
+    margin: auto;
+    text-align: center;
+    font-size: small;
+    padding: 55px 0px 15px 0px;
+}
+
+
+#footer p {
+    display: inline;
+    text-align: center;
+}
